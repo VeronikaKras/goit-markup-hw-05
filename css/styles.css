@@ -625,8 +625,7 @@ align-items: baseline; }
             height: 4px;
             background-color: #404BBF;
                 border-radius: 2px;
-                margin: 0 auto;
-                
+             margin: 0 auto;;
     }
 
           .menu-second-link::after {
