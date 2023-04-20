@@ -465,6 +465,9 @@ display: flex;
 
     }
 
+    .current {
+        color: var(--ocean-color) ;
+    }
     
          .menu-link {
     display: block;
